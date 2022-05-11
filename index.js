@@ -13,4 +13,4 @@ root.render(
       <MainLanding />
     </BrowserRouter>
   </React.StrictMode>
-);
+); 

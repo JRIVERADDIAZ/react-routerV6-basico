@@ -16,7 +16,7 @@ const MainLanding = () => {
         <Route path="/" element={<App />} >
           <Route path="main" element={<Main />} />
           <Route path="menu" element={<Menu />} />
-          <Route path='*' element={<NoEncontrada />} ></Route>
+          <Route path='*' element={<NoEncontrada />} />
         </Route>
       </Routes>
 
